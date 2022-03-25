@@ -1,0 +1,16 @@
+body{
+    background-color: chartreuse;
+}
+#drawnsketch{
+color: darkred ;
+font-size: 30px;
+}
+#score{
+    font-size: 30px;
+    margin-left: 40px;
+}
+#time{
+     font-size: 30px;
+     float:right;
+     margin-right: 150px;
+}
